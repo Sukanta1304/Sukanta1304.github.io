@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b64ef9ee.chunk.css",
-    "main.js": "/static/js/main.df08cf29.chunk.js",
-    "main.js.map": "/static/js/main.df08cf29.chunk.js.map",
+    "main.js": "/static/js/main.4c15b8c2.chunk.js",
+    "main.js.map": "/static/js/main.4c15b8c2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.14c57f4f.js",
     "runtime-main.js.map": "/static/js/runtime-main.14c57f4f.js.map",
     "static/js/2.51fde233.chunk.js": "/static/js/2.51fde233.chunk.js",
@@ -11,8 +11,9 @@
     "static/css/main.b64ef9ee.chunk.css.map": "/static/css/main.b64ef9ee.chunk.css.map",
     "static/js/2.51fde233.chunk.js.LICENSE.txt": "/static/js/2.51fde233.chunk.js.LICENSE.txt",
     "static/media/Rodan.e12a5357.jpg": "/static/media/Rodan.e12a5357.jpg",
-    "static/media/Sukanta_Dolai_Resume.1245d926.pdf": "/static/media/Sukanta_Dolai_Resume.1245d926.pdf",
+    "static/media/Sukanta_Dolai_Resume.25e3589c.pdf": "/static/media/Sukanta_Dolai_Resume.25e3589c.pdf",
     "static/media/download.47546d2c.jpg": "/static/media/download.47546d2c.jpg",
+    "static/media/getharvest.11c60fff.jpg": "/static/media/getharvest.11c60fff.jpg",
     "static/media/logo.fc177bea.jpg": "/static/media/logo.fc177bea.jpg",
     "static/media/photo.f3dd974a.jpg": "/static/media/photo.f3dd974a.jpg",
     "static/media/project1.77dcaaf0.jpg": "/static/media/project1.77dcaaf0.jpg"
@@ -21,6 +22,6 @@
     "static/js/runtime-main.14c57f4f.js",
     "static/js/2.51fde233.chunk.js",
     "static/css/main.b64ef9ee.chunk.css",
-    "static/js/main.df08cf29.chunk.js"
+    "static/js/main.4c15b8c2.chunk.js"
   ]
 }
